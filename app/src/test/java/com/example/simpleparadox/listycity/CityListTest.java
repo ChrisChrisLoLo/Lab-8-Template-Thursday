@@ -96,7 +96,7 @@ class CityListTest {
 
     @Test
     void travisTrigger(){
-        
-        assertEquals(true,false);
+
+        assertEquals(true,true);
     }
 }
